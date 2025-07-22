@@ -1,47 +1,44 @@
-<h1 align="center">👋 Olá, eu sou a Isa!</h1>
-
-<p align="center">
-Desenvolvedora em formação, apaixonada por cibersegurança e comprometida em criar soluções que façam sentido.  
-Atualmente focada em aprender Blue Team, SOC, SIEM e respostas a incidentes.  
-✨ Transformando aprendizados técnicos em projetos práticos e documentados aqui no GitHub!
-</p>
+<h1 align="center">👋 Seja bem-vindo(a) ao meu GitHub!</h1>
+<p align="center">Estudante de Sistemas de Informação | Foco em Cibersegurança e Blue Team 🛡️</p>
 
 ---
 
-### 🧠 Sobre mim
+### 👩‍💻 Sobre Mim
 
-- 🎓 Técnica em Desenvolvimento de Sistemas  
-- 💻 Cursando Sistemas de Informação  
-- 📍 Guarulhos - SP  
-- 🔐 Estudando Cibersegurança com foco em Blue Team  
-- ✍️ Documentando minha jornada aqui no repositório [cybersecurity-journey](https://github.com/IsaPlataLinks/cybersecurity-journey)  
-- 🌱 Aprendendo Python, Git, Linux, SIEM e engenharia de redes  
+Oi, eu sou a Isa! 💻  
+Sou estudante de Sistemas de Informação, apaixonada por tecnologia com propósito e atualmente focada em construir minha trajetória na área de **Cibersegurança**, com ênfase em **Blue Team**, **SOC**, **resposta a incidentes**, **SIEM**, análise de logs e defesa de redes.
+
+Este perfil é o espaço onde organizo meus estudos, documentações técnicas, aprendizados práticos e projetos de estudo — tudo de forma simples e transparente.
+
+Minha meta é evoluir do estágio ao nível sênior com consistência, aplicando meus conhecimentos em ambientes reais de defesa cibernética.
 
 ---
 
-### 🚀 Tech Stack
-<div style="display: flex; flex-wrap: wrap;">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,vscode,git,github" />
+### 🧰 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,vscode,github,bash,powershell" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IsaPlataLinks&show_icons=true&theme=github_dark&hide=stars&border_radius=10&rank_icon=github" width="48%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPlataLinks&layout=compact&theme=github_dark&border_radius=10" width="48%" />
-
-<br clear="both" />
-
----
-
-### 📈 Atividade recente no GitHub
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsaPlataLinks&bg_color=0d1117&color=6db6ff&line=4c8eda&point=6db6ff&area=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPlataLinks&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaPlataLinks&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="45%" />
+</div>
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 📈 Atividade recente
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
-- 📫 isa.seuemail@email.com (coloca se quiser)
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IsaPlataLinks&bg_color=0d1117&color=6db6ff&line=4c8eda&point=6db6ff&area=true&hide_border=true" />
+</div>
+
+---
+
+### 💜 Obrigada por visitar meu perfil!
+
+<p align="center
