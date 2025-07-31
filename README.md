@@ -65,8 +65,27 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="60" src="https://skillicons.dev/icons?i=python,linux,bash,powershell,git,vscode,github" />
+
+  <!-- Skillicons (básicos e técnicos) -->
+  <img height="50" src="https://skillicons.dev/icons?i=python" />
+  <img height="50" src="https://skillicons.dev/icons?i=linux" />
+  <img height="50" src="https://skillicons.dev/icons?i=bash" />
+  <img height="50" src="https://skillicons.dev/icons?i=powershell" />
+  <img height="50" src="https://skillicons.dev/icons?i=git" />
+  <img height="50" src="https://skillicons.dev/icons?i=vscode" />
+  <img height="50" src="https://skillicons.dev/icons?i=github" />
+
+  <!-- Separador visual -->
+  <br><br>
+
+  <!-- Cybersecurity tools -->
+  <img height="50" src="https://www.wazuh.com/wp-content/uploads/2023/04/cropped-wazuh-icon-192x192.png" alt="Wazuh" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Splunk_logo.svg" alt="Splunk" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_Logo.svg" alt="Wireshark" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap-logo.svg" alt="Nmap" />
+
 </div>
+
 
 <br>
 
