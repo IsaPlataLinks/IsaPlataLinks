@@ -65,8 +65,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-
-  <!-- Skillicons (básicos e técnicos) -->
+  <!-- Skill Icons -->
   <img height="50" src="https://skillicons.dev/icons?i=python" />
   <img height="50" src="https://skillicons.dev/icons?i=linux" />
   <img height="50" src="https://skillicons.dev/icons?i=bash" />
@@ -75,16 +74,14 @@
   <img height="50" src="https://skillicons.dev/icons?i=vscode" />
   <img height="50" src="https://skillicons.dev/icons?i=github" />
 
-  <!-- Separador visual -->
+  <!-- Ferramentas de Blue Team -->
   <br><br>
-
-  <!-- Cybersecurity tools -->
-  <img height="50" src="https://www.wazuh.com/wp-content/uploads/2023/04/cropped-wazuh-icon-192x192.png" alt="Wazuh" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Splunk_logo.svg" alt="Splunk" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_Logo.svg" alt="Wireshark" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap-logo.svg" alt="Nmap" />
-
+  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/wazuh.png" alt="Wazuh" />
+  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/splunk.png" alt="Splunk" />
+  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/wireshark.png" alt="Wireshark" />
+  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/nmap.png" alt="Nmap" />
 </div>
+
 
 
 <br>
