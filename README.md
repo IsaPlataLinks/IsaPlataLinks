@@ -1,44 +1,98 @@
-<h1 align="center">👋 Seja bem-vindo(a) ao meu GitHub!</h1>
-<p align="center">Estudante de Sistemas de Informação | Foco em Cibersegurança e Blue Team 🛡️</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
----
-
-### 👩‍💻 Sobre Mim
-
-Oi, eu sou a Isa! 💻  
-Sou estudante de Sistemas de Informação, apaixonada por tecnologia com propósito e atualmente focada em construir minha trajetória na área de **Cibersegurança**, com ênfase em **Blue Team**, **SOC**, **resposta a incidentes**, **SIEM**, análise de logs e defesa de redes.
-
-Este perfil é o espaço onde organizo meus estudos, documentações técnicas, aprendizados práticos e projetos de estudo — tudo de forma simples e transparente.
-
-Minha meta é evoluir do estágio ao nível sênior com consistência, aplicando meus conhecimentos em ambientes reais de defesa cibernética.
-
----
-
-### 🧰 Tecnologias e Ferramentas
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,vscode,github,bash,powershell" />
+  
+  <b>`Cybersecurity Student`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Isabella Plata</b>
+      <br>
+      In transition to Cybersecurity — currently diving into the Purple Team universe 💜
+  </samp>
 </div>
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPlataLinks&layout=compact&theme=github_dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaPlataLinks&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="45%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ4NXoyb3gzZmVxMm5zaHZ0enJ3eW9oYndjdGRzc2YzbDUxaWkwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="180px" alt="Gengar cyber dark" />
 </div>
 
----
+<br>
 
-### 📈 Atividade recente
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Cybersecurity+Student;Blue+Team+%7C+Red+Team+%3D+Purple+Mindset;SOC%2C+SIEM%2C+Logs+%26+Threat+Hunting;Let's+defend+and+understand+attacks+together!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IsaPlataLinks&bg_color=0d1117&color=6db6ff&line=4c8eda&point=6db6ff&area=true&hide_border=true" />
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=IsaPlataLinks&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPlataLinks&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Profile Summary"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaPlataLinks&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Streak Stats"
+    src="https://streak-stats.demolab.com?user=IsaPlataLinks&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"
+  />
 </div>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://skillicons.dev/icons?i=python,linux,bash,powershell,git,vscode,github" />
+</div>
 
-### 💜 Obrigada por visitar meu perfil!
+<br>
 
-<p align="center
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  <a href="mailto:isa.platalinks@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5" /></a>
+  <a href="https://www.linkedin.com/in/SEULINKAQUI"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5" /></a>
+  <a href="https://github.com/IsaPlataLinks"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9745f5" /></a>
+</div>
+
+<br>
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
