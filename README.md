@@ -4,12 +4,11 @@
 
 <div align="center">
   
-  <b>`Cybersecurity Student`</b>
   <samp>
       <br>
       Hi there! I'm <b>Isabella Plata</b>
       <br>
-      In transition to Cybersecurity — currently diving into the Purple Team universe 💜
+      And I'm currently diving headfirst into cybersecurity 💜
   </samp>
 </div>
 
@@ -20,7 +19,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Cybersecurity+Student;Blue+Team+%7C+Red+Team+%3D+Purple+Mindset;SOC%2C+SIEM%2C+Logs+%26+Threat+Hunting;Let's+defend+and+understand+attacks+together!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Cybersecurity+Student;Blue+Team+%7C+Red+Team+%3D+Purple+Mindset;SOC%2C+SIEM%2C+Logs+%26+Threat+Hunting;" alt="Typing SVG"/>
 </div>
 
 <br>
