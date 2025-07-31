@@ -65,7 +65,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://skillicons.dev/icons?i=python,linux,bash,powershell,git,vscode,github" />
+  <img width="60" src="https://skillicons.dev/icons?i=python,linux,bash,powershell,git,vscode,github" />
 </div>
 
 <br>
