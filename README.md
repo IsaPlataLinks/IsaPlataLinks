@@ -32,7 +32,6 @@
   </summary>
   
   <br>
-
 <div align="center">
   <img
     height=165
@@ -50,7 +49,7 @@
   <br>
   <img
     align="center"
-    alt="Profile Summary"
+    alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaPlataLinks&theme=midnight_purple"
   />
   <br>
@@ -58,28 +57,36 @@
   <img
     height=154
     align="center"
-    alt="Streak Stats"
-    src="https://streak-stats.demolab.com?user=IsaPlataLinks&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=IsaPlataLinks&theme=midnight-purple&card_width=885"
   />
-</div>
+  </div>
 
 <div align="center" style="display: inline_block"><br>
-  <!-- Skill Icons -->
-  <img height="50" src="https://skillicons.dev/icons?i=python" />
-  <img height="50" src="https://skillicons.dev/icons?i=linux" />
-  <img height="50" src="https://skillicons.dev/icons?i=bash" />
-  <img height="50" src="https://skillicons.dev/icons?i=powershell" />
-  <img height="50" src="https://skillicons.dev/icons?i=git" />
-  <img height="50" src="https://skillicons.dev/icons?i=vscode" />
-  <img height="50" src="https://skillicons.dev/icons?i=github" />
-
-  <!-- Ferramentas de Blue Team -->
-  <br><br>
-  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/wazuh.png" alt="Wazuh" />
-  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/splunk.png" alt="Splunk" />
-  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/wireshark.png" alt="Wireshark" />
-  <img height="40" src="https://raw.githubusercontent.com/Sonia-Scarlet/BlueTeam-Icons/main/nmap.png" alt="Nmap" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kali-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
 </div>
+
+<br>
 
 
 
