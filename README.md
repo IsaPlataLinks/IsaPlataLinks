@@ -106,7 +106,7 @@
   <br>
 
   <a href="mailto:isabella.delaplata@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-000?style=for-the-badge&logo=microsoftoutlook&logoColor=9745f5" /></a>
-  <a href="https://www.linkedin.com/in/SEULINKAQUI"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5" /></a>
+  <a href="https://www.linkedin.com/in/isabella-dela-plata-a53654186"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5" /></a>
 </div>
 
 <br>
