@@ -105,9 +105,8 @@
   <br>
   <br>
 
-  <a href="mailto:isa.platalinks@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5" /></a>
+  <a href="mailto:isabella.delaplata@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-000?style=for-the-badge&logo=microsoftoutlook&logoColor=9745f5" /></a>
   <a href="https://www.linkedin.com/in/SEULINKAQUI"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5" /></a>
-  <a href="https://github.com/IsaPlataLinks"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9745f5" /></a>
 </div>
 
 <br>
