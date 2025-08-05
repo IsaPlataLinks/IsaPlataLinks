@@ -50,7 +50,7 @@
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaPlataLinks&theme=midnight_purple"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaPlataLinks&theme=midnight_purple"
   />
   <br>
   <br>
@@ -85,11 +85,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
 </div>
-
 <br>
-
-
-
 <br>
 
 ##
